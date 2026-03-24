@@ -1,0 +1,5 @@
+findme-ai/node_modules/
+findme-ai/.next/
+.vscode/
+*.log
+.DS_Store
